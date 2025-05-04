@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+div {
+    border-style: solid;
+    border-color:antiquewhite
+}
+class2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color:black
+}
+class3 {
+    color:aquamarine
+}
+class1 {
+    font-size: x-large;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+class4{
+    border-style: double;
+    border-color: azure;
+    font-style: italic;
+}
